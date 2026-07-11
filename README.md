@@ -14,7 +14,7 @@
 
 ### 🚀 About me
 
-I'm a principal-level software engineer with **16+ years** designing, building, and operating large-scale distributed systems and enterprise SaaS at Oracle. I work end-to-end — from system design and event-pipeline architecture, to backend Java services and cloud-native infrastructure, to putting generative AI into production.
+I'm a **Senior Principal Engineer at Oracle** with **16+ years** designing, building, and operating large-scale distributed systems and enterprise SaaS. I work end-to-end — from system design and event-pipeline architecture, to backend Java services and cloud-native infrastructure, to putting generative AI into production.
 
 - 🔭 **Currently:** architecting **Oracle Fusion CX Products** — a new framework that unifies products & product categories across the Oracle Fusion CX suite (CX Sales, CPQ, Self-Service, Fusion Service, Order Management) on top of Oracle SCM Product Hub, with an **AI-powered rule engine** to control what to sell and to whom.
 - 🤖 **Recently:** integrated the **Oracle Fusion AI stack into Oracle Fusion CPQ**, shipping generative-AI and agent features that help sellers work faster on quotes (LLMs, RAG, vector search, AI agents).
@@ -69,8 +69,8 @@ I'm a principal-level software engineer with **16+ years** designing, building, 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakvijayan&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvijayan&layout=compact&hide_border=true" alt="Top languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=dv333&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv333&layout=compact&hide_border=true" alt="Top languages" height="150">
 </p>
 
 <p align="center"><i>Always happy to talk distributed systems, streaming architectures, and shipping GenAI responsibly.</i></p>
