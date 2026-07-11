@@ -59,11 +59,11 @@ I'm a **Senior Principal Engineer at Oracle** with **16+ years** designing, buil
 
 ### 💡 Highlights
 
-- 🏗️ **Real-time event pipeline at scale** — designed the pipeline, serving layer, and event schema for a record-level streaming feed running at sub-2s latency and >10M events/day.
+- 🏗️ **Real-time event pipeline at scale** — designed the pipeline, serving layer, and event schema for a record-level streaming feed running at sub-2s latency and >10M events/day. Ships as the [Activity Feed in Oracle Sales for Redwood](https://docs.oracle.com/en/cloud/saas/sales/fasst/what-activities-track-and-display.html).
 - 🤖 **GenAI in production** — integrated Oracle's Fusion AI stack into Oracle Fusion CPQ, delivering GenAI quote summaries, an in-context "Ask Oracle" assist bar, a natural-language Quote Assist agent, and an AI rewrite assistant across the CPQ 25B–25D releases.
 - 🧩 **Product-catalog unification** — architecting Oracle Fusion CX Products to unify products across the CX suite on Oracle SCM Product Hub, with an AI-powered rule engine + high-performance evaluation engine for eligibility and optimal-product selection.
 - ☁️ **Cloud-native migration** — re-architected a monolithic enterprise SaaS into microservices on Kubernetes.
-- 🏆 **Hackathon winner** — built a static-analysis tool over ~20,000 config files; prototype presented to the President of Product Development and productized into a shipping feature.
+- 🏆 **Hackathon winner** — built a static-analysis tool over ~20,000 config files; prototype presented to the President of Product Development and productized into a shipping feature — the [Application Composer Configuration Report](https://docs.oracle.com/en/cloud/saas/applications-common/26b/oacex/how-to-view-application-composer-changes.html).
 - ☕ Oracle Certified Professional (Java SE 6) · OCI Architect Professional & Associate certifications.
 
 ---
