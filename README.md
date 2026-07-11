@@ -68,9 +68,4 @@ I'm a **Senior Principal Engineer at Oracle** with **16+ years** designing, buil
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dv333&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv333&layout=compact&hide_border=true" alt="Top languages" height="150">
-</p>
-
 <p align="center"><i>Always happy to talk distributed systems, streaming architectures, and shipping GenAI responsibly.</i></p>
