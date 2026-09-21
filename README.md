@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Deepak Vijayan 👋</h1>
 
 <p align="center">
-  <b>Staff/Principal Software Engineer</b> · Distributed Systems · Event Streaming · Applied Generative AI<br>
+  <b>Principal Software Engineer</b> · Distributed Systems · Event Streaming · Applied Generative AI<br>
   16+ years building and operating large-scale enterprise SaaS · Redwood City, CA
 </p>
 
